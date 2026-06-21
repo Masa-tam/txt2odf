@@ -43,7 +43,11 @@ python main.py -i ./txt/list.txt -f ./template/a5_vertical.json -o ./output.odt
     *   見た目（フォントやレイアウト）の設定や、空行処理の細かいモードについて解説しています。
 
 ## ライセンス
-MIT License に従います。
+このソフトウェアは [MIT License](LICENSE) のもとで公開されています。
+
+### サードパーティライセンス
+本プロジェクトは以下のサードパーティ製ライブラリを使用しています。
+* [odfpy](https://github.com/eea/odfpy) - Apache License 2.0 (GPL 2.0 とのデュアルライセンスから Apache 2.0 を選択して適用しています)
 
 ## 最後に
 私のスタイルが行間を基本的に空けないスタイルのため blank_lines はほぼテストされていません😅
