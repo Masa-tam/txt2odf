@@ -1,0 +1,23 @@
+{
+  "style": {
+    "page_size": "A5",
+    "orientation": "portrait",
+    "writing_mode": "vertical",
+    "line_height": 1.75,
+    "font_family": "Noto Serif JP",
+    "font_size": {
+      "body": 10.5,
+      "h1": 16,
+      "h2": 14,
+      "h3": 12
+    },
+    "emphasis": ["bold"]
+  },
+  "processing": {
+    "blank_lines": {
+      "mode": "dialogue_narrative",
+      "custom_rules": []
+    },
+    "markup": "kakuyomu"
+  }
+}

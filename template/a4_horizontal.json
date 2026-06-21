@@ -1,0 +1,23 @@
+{
+  "style": {
+    "page_size": "A4",
+    "orientation": "portrait",
+    "writing_mode": "horizontal",
+    "line_height": 2,
+    "font_family": "Noto Sans JP",
+    "font_size": {
+      "body": 11,
+      "h1": 18,
+      "h2": 14,
+      "h3": 12
+    },
+    "emphasis": ["text-emphasize"]
+  },
+  "processing": {
+    "blank_lines": {
+      "mode": "none",
+      "custom_rules": []
+    },
+    "markup": "kakuyomu"
+  }
+}
